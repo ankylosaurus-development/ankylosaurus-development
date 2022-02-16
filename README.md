@@ -27,4 +27,4 @@ This project is open sorce please help us by making the HTML and CSS for the pan
 
 # You will need node-gyp! (sorry)
 
-Ankylosaurus - 2022-2023
+©Ankylosaurus - 2022-2023
