@@ -5,7 +5,9 @@ What is Ankylosaurus?
 
 Ankylosaurus is an open sorce game mangent built in nodeJS
 
-This is a clone of pterodactyl but its built in NodeJS
+This is a clone of pterodactyl but its built in NodeJS.
+
+Please feel free to help out the project!
 
 
 ## Panel
